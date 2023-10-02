@@ -11,4 +11,4 @@
 
 [<img align="left" alt="LauncelotSutton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/launcelot-sutton-8a210355
+[linkedin]: http://www.linkedin.com/in/launcelot-sutton-8a210355
