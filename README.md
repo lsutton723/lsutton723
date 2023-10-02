@@ -1,4 +1,7 @@
-<h1>Hello, I'm Launcelot! <br/>Student of Information Security & Cybersecurity, looking to expand my skills in the field.
+<h1>Hello, I'm Launcelot!</h1>
+
+<strong>I'm a student of Information Security & Cybersecurity, looking to expand my skills in the field.</strong>
+
 
 <h2>Cybersecurity Projects:</h2>
 
